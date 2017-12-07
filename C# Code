@@ -343,4 +343,8 @@ namespace OPC测试通过
             //KepItem.Write(txtWriteTagValue.Text);//这句也可以写入，但并不触发写入事件
             GC.Collect();
         }
-        #endregion     } }
+        #endregion
+        
+    } 
+    
+}
